@@ -1,7 +1,7 @@
 # Personal Task Tracker
 
 ## 📖 Description
-A clean and simple web-based **Task Tracker application** built with HTML, CSS, and JavaScript.
+A clean and simple web-based **Task Tracker application** built with React.Js.
 This app allows users to efficiently manage their personal to-do list. You can add new tasks, mark them as completed, and remove tasks once done — all in an intuitive interface.
 
 ## 🌟 Features
